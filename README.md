@@ -5,7 +5,8 @@
 - 🧠 Majoring Artificial Intelligence 
 - 🎮 Game development part timer
 - 🎨 In love with pixel arts
-- 🏀 basketball is my fav sport
+- 🏀 Basketball is my fav sport
+- 🍕 Pizza lover
 - 📩 afiqirfanmanor@gmail.com
 
 ### Connect with me:
