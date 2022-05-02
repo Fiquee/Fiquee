@@ -11,7 +11,7 @@
 
 ### Where to find me 🔎:
 <a href = "https://www.instagram.com/fiquee__/"><img alt="Instagram" src="https://img.shields.io/badge/fiquee____%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"></a>
-<a href = "https://twitter.com/fiquee__"><img alt="Twitter" src="https://img.shields.io/badge/@fiquee__%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href = "https://twitter.com/fiquee__"><img alt="Twitter" src="https://img.shields.io/badge/@fiquee___%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <a href ="https://www.linkedin.com/in/afiqirfan/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://biggiebob.itch.io"><img src ="https://img.shields.io/badge/biggiebob-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
