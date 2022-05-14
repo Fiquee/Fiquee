@@ -34,10 +34,10 @@
 
 
 
-#### Still learning ✍:
+<!-- #### Still learning ✍:
 <a href = "#"><img src ="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"></a>
 <a href = "#"><img src ="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
 <a href = "#"><img src ="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
-<a href = "#"><img src ="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"></a>
+<a href = "#"><img src ="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"></a> -->
 
 <img align="left" alt="Fiquee's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fiquee&theme=dracula&hide=Hack"/>
