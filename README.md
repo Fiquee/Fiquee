@@ -2,8 +2,8 @@
 
 ### Currently I'm studying in University of Malaya (UM), Kuala Lumpur.
 
-AI is not magic, they are meticulous analysis and complex computations.<br/>But, for certain time, they are magic.
-More to learn before I can master the world of AI and concurrently developing web-dev skills. 🎯
+AI is not magic, they are meticulous analysis and complex computations. But, for certain time, they are magic.
+<br/>More to learn before I can master the world of AI and concurrently developing web-dev skills. 🎯
 
 - 🧠 Majoring Artificial Intelligence 
 - 🎮 Game dev and pixel arts lover
