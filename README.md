@@ -2,6 +2,9 @@
 
 ### Currently I'm studying in University of Malaya (UM), Kuala Lumpur.
 
+AI is not magic, they are meticulous analysis and complex computations. But, for certain time, they are magic.
+More to learn before I can master the world of AI and concurrently developing web-dev skills. 🎯
+
 - 🧠 Majoring Artificial Intelligence 
 - 🎮 Game dev and pixel arts lover
 - 🏀 Ballin ftw
@@ -18,19 +21,20 @@
 <a href = "#"><img src = "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></a>
 <a href = "#"><img src ="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
 
-### AI/DS utils and tech:
-https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
+### AI/DS utils and tech 🧠:
+<a href = "#"><img src ="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
+<a href = "#"><img src ="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"></a>
+<a href = "#"><img src ="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
+<a href = "#"><img src ="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"></a>
+<a href = "#"><img src ="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></a>
+<a href = "#"><img src ="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"></a>
+<a href = "#"><img src ="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"></a>
 <a href = "#"><img src ="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+
+### Game dev 🎮
 <a href = "#"><img src ="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"></a>
 <a href = "#"><img src ="https://img.shields.io/badge/Aseprite%20-%237D929E.svg?&style=for-the-badge&logo=Aseprite&logoColor=white"></a>
 
-
-
-<!-- #### Still learning ✍:
-<a href = "#"><img src ="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"></a>
-<a href = "#"><img src ="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
-<a href = "#"><img src ="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
-<a href = "#"><img src ="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"></a> -->
 
 ### Find me here 🔎:
 <a href = "https://www.instagram.com/fiquee__/"><img alt="Instagram" src="https://img.shields.io/badge/fiquee____%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"></a>
