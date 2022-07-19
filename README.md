@@ -3,10 +3,9 @@
 ### Currently I'm studying in University of Malaya (UM), Kuala Lumpur.
 
 - 🧠 Majoring Artificial Intelligence 
-- 🎮 Game development part timer
-- 🎨 In love with pixel arts
-- 🏀 Basketball is my fav sport
-- 🍕 Pizza lover
+- 🎮 Game dev and pixel arts lover
+- 🏀 Ballin ftw
+- 🍕 Pizza is life
 - 📩 afiqirfanmanor@gmail.com
 
 ### Where to find me 🔎:
