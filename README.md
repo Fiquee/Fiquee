@@ -2,7 +2,7 @@
 
 ### Currently I'm studying in University of Malaya (UM), Kuala Lumpur.
 
-AI is not magic, they are meticulous analysis and complex computations. But, for certain time, they are magic.
+AI is not magic, they are meticulous analysis and complex computations.<br/>But, for certain time, they are magic.
 More to learn before I can master the world of AI and concurrently developing web-dev skills. 🎯
 
 - 🧠 Majoring Artificial Intelligence 
@@ -15,7 +15,7 @@ More to learn before I can master the world of AI and concurrently developing we
 <a href = "#"><img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href = "#"><img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
 <a href = "#"><img src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
-<a href = "#"><img src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></a>
+<a href = "#"><img src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></a><br/>
 <a href = "#"><img src ="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
 <a href = "#"><img src ="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
 <a href = "#"><img src = "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></a>
@@ -25,7 +25,7 @@ More to learn before I can master the world of AI and concurrently developing we
 <a href = "#"><img src ="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
 <a href = "#"><img src ="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"></a>
 <a href = "#"><img src ="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
-<a href = "#"><img src ="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"></a>
+<a href = "#"><img src ="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"></a><br/>
 <a href = "#"><img src ="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></a>
 <a href = "#"><img src ="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"></a>
 <a href = "#"><img src ="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"></a>
