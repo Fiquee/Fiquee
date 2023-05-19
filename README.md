@@ -1,6 +1,6 @@
 ## Hi there, I'm Afiq Irfan 👋
 
-### Currently I'm studying in University of Malaya (UM), Kuala Lumpur.
+### Graduated from Universiti Malaya, KL.
 
 AI is not magic, they are meticulous analysis and complex computations. But, for certain time, they are magic.
 <br/>More to learn before I can master the world of AI and concurrently developing web-dev skills. 🎯
